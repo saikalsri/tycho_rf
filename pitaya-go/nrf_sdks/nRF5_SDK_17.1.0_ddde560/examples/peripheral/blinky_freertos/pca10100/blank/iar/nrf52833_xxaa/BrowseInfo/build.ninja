@@ -1,0 +1,11 @@
+##IAR Ninja build file
+
+
+#Rules
+
+
+#Build steps
+build PRE_COMPILE : phony 
+
+build PRE_LINK : phony PRE_COMPILE
+
